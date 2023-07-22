@@ -17,7 +17,7 @@ public class TimedText : MonoBehaviour
         ChosenText.gameObject.SetActive(false);
     }
 
-    void OnCollisionEnter()
+    void OnCollisionEnter(Collision collision)
     {
         StartCoroutine(timer());
     }
