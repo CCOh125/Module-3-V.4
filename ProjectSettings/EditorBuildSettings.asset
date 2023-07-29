@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Exercise_3-3.unity
     guid: e642c049cbb4d7a4e9ac86004ae709a4
+  - enabled: 1
+    path: Assets/Scenes/CheckpointScene.unity
+    guid: 7d99d9eb70bab5343b77024b860a8492
   m_configObjects: {}
